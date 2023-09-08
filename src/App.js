@@ -9,7 +9,9 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Coins />} />
-          <Route path="coin" element={<SpecificCoin />} />
+          <Route path="coin/:id" element={<SpecificCoin />} />
+          {' '}
+
         </Route>
       </Routes>
     </Router>
