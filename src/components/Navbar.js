@@ -1,4 +1,3 @@
-/* eslint-disable */
 import React, { useState } from 'react';
 import SpeechRecognition, { useSpeechRecognition } from 'react-speech-recognition';
 import './Modal.css';
@@ -30,7 +29,8 @@ const Navbar = () => {
   if (!browserSupportsSpeechRecognition) {
     return <span>Browser does not support speech recognition.</span>;
   }
-
+/* eslint-disable */
+/* disabled linters only for future feature (MICROPHONE) */
   return (
     <header className="flex justify-between p-6 items-center bg-blue-3 text-text-color">
       <NavLink className="lato text-text-color w-1/4" to="/">
