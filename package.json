@@ -13,6 +13,7 @@
     "react-redux": "^8.1.1",
     "react-router-dom": "^6.13.0",
     "react-scripts": "5.0.1",
+    "react-speech-recognition": "^3.10.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -42,12 +43,12 @@
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/eslint-parser": "^7.22.5",
+    "@babel/plugin-proposal-private-property-in-object": "^7.0.0",
     "@babel/plugin-syntax-jsx": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
     "@babel/preset-react": "^7.22.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
-    "@babel/plugin-proposal-private-property-in-object": "^7.0.0",
     "babel-jest": "^29.5.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb": "^18.2.1",
