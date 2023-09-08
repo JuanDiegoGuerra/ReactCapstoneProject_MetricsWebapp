@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactCapstoneProject_MetricsWebapp/static/css/main.31eaf1f8.css",
+    "main.js": "/ReactCapstoneProject_MetricsWebapp/static/js/main.a4d9d89c.js",
+    "index.html": "/ReactCapstoneProject_MetricsWebapp/index.html",
+    "main.31eaf1f8.css.map": "/ReactCapstoneProject_MetricsWebapp/static/css/main.31eaf1f8.css.map",
+    "main.a4d9d89c.js.map": "/ReactCapstoneProject_MetricsWebapp/static/js/main.a4d9d89c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31eaf1f8.css",
+    "static/js/main.a4d9d89c.js"
+  ]
+}
