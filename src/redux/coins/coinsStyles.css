@@ -1,0 +1,15 @@
+/** ---- MEDIA QUERIES ---- **/
+
+.bg-blue-4 {
+    border: 1px #e5e7eb solid;
+}
+
+.bg-blue-3 {
+    border: 1px #e5e7eb solid;
+}
+
+@media screen and (min-width: 768px) {
+.grid-cols-2 {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
