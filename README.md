@@ -32,7 +32,7 @@ React Capstone - Crypto Watcher</b></h1>
 
 # 🚀 Crypto Watcher 💲 <a name="about-project"></a>
 
-Crypto Watcher is a webapp that displays information about the top 100 cryptocurrencies in the world. The application shows the top 100 and allows users to select a cryptocurrency to view more information about it, such as Market Capitalization, price, price change in the last week, website and more.
+Crypto Watcher is a webapp that displays information about the top 100 cryptocurrencies. The application shows the top 100 and allows users to select a cryptocurrency to view more information about it, such as Market Capitalization, price, price change in the last week, website and more.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -63,7 +63,7 @@ Crypto Watcher is a webapp that displays information about the top 100 cryptocur
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> ... [COMMING SOON]()
+> Live Demo : [Crypto Watcher](https://crypto-watcher.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
