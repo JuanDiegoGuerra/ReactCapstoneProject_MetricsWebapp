@@ -16,7 +16,7 @@ function CoinSection({ id }) {
       </p>
     );
   }
-  
+
   return (
     <section className="w-full flex flex-col justify-center items-center py-10 gap-3">
       <img className="w-16 h-auto" src={coinDetails.img} alt="NAME" />

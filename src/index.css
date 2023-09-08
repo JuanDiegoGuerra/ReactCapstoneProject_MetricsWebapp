@@ -5,22 +5,22 @@
 @tailwind utilities;
 
 .lato {
-    font-family: 'Lato', sans-serif;
-  }
-  
-  .sans {
-    font-family: 'Noto Sans', sans-serif;
-  }
-  
-  .layout {
-    min-height: 100vh;
-    background-color: #5688e4;
-  }
-  
-  tr:nth-child(odd) {
-    background-color: #4064a6;
-  }
-  
-  tr:nth-child(even) {
-    background-color: #4369b2;
-  }
+  font-family: 'Lato', sans-serif;
+}
+
+.sans {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.layout {
+  min-height: 100vh;
+  background-color: #5688e4;
+}
+
+tr:nth-child(odd) {
+  background-color: #4064a6;
+}
+
+tr:nth-child(even) {
+  background-color: #4369b2;
+}
