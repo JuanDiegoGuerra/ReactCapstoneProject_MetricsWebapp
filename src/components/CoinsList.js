@@ -3,6 +3,7 @@ import { useEffect } from 'react';
 import { getCoins } from '../redux/coins/coinsSlice';
 import FilterForm from './FilterForm';
 import Coin from './Coin';
+import '../redux/coins/coinsStyles.css';
 
 function CoinsList() {
   const coins = useSelector((store) => store.coins);
