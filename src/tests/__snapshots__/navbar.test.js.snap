@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Navbar components test Navbar component 1`] = `
+<div>
+  <span>
+    Browser does not support speech recognition.
+  </span>
+</div>
+`;
