@@ -62,3 +62,8 @@ body.active-modal {
   padding: 5px;
   border-radius: 5px;
 }
+
+.arrow-container {
+  margin-left: 95%;
+  padding: 0.5rem;
+}

@@ -1,6 +1,8 @@
 import PropTypes from 'prop-types';
 import { NavLink } from 'react-router-dom';
 import { FaLongArrowAltUp, FaLongArrowAltDown } from 'react-icons/fa';
+import { BsArrowRightCircle } from 'react-icons/bs';
+import './Modal.css';
 
 function Coin({
   id, name, symbol, img, price, change, index,
@@ -12,6 +14,9 @@ function Coin({
       className={`lato text-text-color p-5 coin ${style}`}
       to={`coin/${id}`}
     >
+      <div className="arrow-container">
+        <BsArrowRightCircle />
+      </div>
       <div className="flex justify-between">
         <img className="w-16 h-auto" src={img} alt="NAME" />
         <div className="flex flex-col justify-between items-end">
